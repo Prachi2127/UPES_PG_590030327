@@ -1,0 +1,5 @@
+Dehradun 5.78 308.2
+Delhi 190.0 1484.0
+Mumbai 124.0 603.4
+Pune 74.0 331.26
+Jaipur 41.0 484.6
